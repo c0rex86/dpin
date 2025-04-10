@@ -1,0 +1,20 @@
+# Исполняемые файлы
+bin/
+obj/
+dpin
+
+# Временные файлы
+*.o
+*.a
+*.so
+*.swp
+*~
+
+# Файлы IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Результаты тестов
+*.log
+*.out 
