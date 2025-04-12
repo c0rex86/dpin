@@ -2,16 +2,6 @@
 
 dpin (Distributed Performance Investigation Network) - это утилита командной строки с текстовым пользовательским интерфейсом для проведения нагрузочных тестов сети и серверов.
 
-## Возможности
-
-- HTTP/HTTPS нагрузочное тестирование
-- TCP/UDP тесты производительности
-- Мониторинг в реальном времени
-- Настраиваемые параметры нагрузки
-- Экспорт результатов
-
-## Установка
-
 ```bash
 git clone https://github.com/c0rex86/dpin.git
 cd dpin
@@ -25,12 +15,9 @@ sudo make install
 dpin
 ```
 
-## Требования
-
-- gcc
-- make
-- libncurses
-- libpthread
+ make
+ libncurses
+ libpthread
 
 ## Автор
 
